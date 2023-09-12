@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/location-immobiliere-avec-react/static/css/main.deebe419.css",
+    "main.js": "/location-immobiliere-avec-react/static/js/main.c01d55c3.js",
+    "static/media/Image source 2.png": "/location-immobiliere-avec-react/static/media/Image source 2.640955dab8c7bff25514.png",
+    "static/media/banner-home.png": "/location-immobiliere-avec-react/static/media/banner-home.19221376a0aa2549c135.png",
+    "index.html": "/location-immobiliere-avec-react/index.html",
+    "main.deebe419.css.map": "/location-immobiliere-avec-react/static/css/main.deebe419.css.map",
+    "main.c01d55c3.js.map": "/location-immobiliere-avec-react/static/js/main.c01d55c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deebe419.css",
+    "static/js/main.c01d55c3.js"
+  ]
+}
