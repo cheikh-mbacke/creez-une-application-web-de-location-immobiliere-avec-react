@@ -1,0 +1,40 @@
+.BannerCont {
+    height: 223px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @media (max-width: 1001px) {
+      justify-content: left;
+    }
+
+  
+    &::after {
+      content: "Chez vous, partout et ailleurs";
+      z-index: 1;
+      position: absolute;
+      color: white;
+      font-size: 48px;
+  
+      @media (max-width: 1001px) {
+        font-size: 24px;
+        content: "Chez vous," "\apartout et ailleurs";
+        white-space: pre;
+        padding-left: 15px;
+      }
+    }
+  
+    &-img {
+      object-fit: cover;
+      height: 223px;
+      width: 100%;
+      border-radius: 25px;
+      filter: brightness(0.65);
+  
+      @media (max-width: 1001px) {
+        height: 150px;
+      }
+    }
+  }
+  

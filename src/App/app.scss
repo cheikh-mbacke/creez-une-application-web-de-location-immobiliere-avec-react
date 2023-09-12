@@ -1,0 +1,16 @@
+.contenair {
+  max-width: 1300px;
+  min-height: 75vh;
+  width: 80%;  
+  margin: 0 auto;
+  padding: 0;
+  @media (max-width: 1001px) {
+  width: 90%;
+  min-height: 100%;
+   }
+}
+
+body{
+  margin : 0px;
+  
+}
